@@ -1,0 +1,48 @@
+
+
+.cart{
+  text-align:center ;
+margin-left: 10%;
+
+}
+.img{
+  width: 300px;
+  height: 400px;
+  padding: 4% ;
+  
+}
+.perfume{
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  
+}
+.cart-item{
+  display: flex;
+ 
+  
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-around
+  
+}
+.cart-total{
+  background-color: rgb(78, 65, 223);
+ 
+}
+.total-price{
+  color: blanchedalmond;
+  font-size: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
